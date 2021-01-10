@@ -1,1 +1,1 @@
-it's just a project in Ruby on rails
+it's just a project on Ruby on rails
